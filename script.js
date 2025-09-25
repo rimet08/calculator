@@ -3,4 +3,4 @@ function main() {
     let number2 = ;
 
     let sum = number1 + number2;
-    console.log("")
+    window.alert("");
