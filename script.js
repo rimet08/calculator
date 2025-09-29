@@ -1,6 +1,13 @@
-function main() {
-    let number1 = ;
-    let number2 = ;
+function main () {
+    const display = document.getElementById('display');
 
-    let sum = number1 + number2;
-    window.alert("");
+    function appendToDisplay(input) {
+        display.value += input;
+
+        }
+    
+    function clearDisplay() {
+        display.value = '';
+    }
+
+    // Etc... //
