@@ -16,3 +16,12 @@ button {
     gap: 10px
     padding: 25px;
 }
+
+#calculator {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    border-radius: 15px;
+    max-width: 500px;
+    overflow: hidden;
+    
+}
