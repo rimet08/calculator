@@ -61,3 +61,11 @@ button:active {
 .operator-btn:hover {
     background-color: rgb(255, 140, 0);
 }
+
+.h1 {
+    text-align: center;
+    padding: 40px;
+    background-color: rgba(0, 0, 0, 0.549);
+    height: auto;
+    
+}
